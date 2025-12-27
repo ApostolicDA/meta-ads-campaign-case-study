@@ -16,7 +16,9 @@ This case study demonstrates real media buying expertise and campaign optimizati
 
 ### 📊 Live Campaign Dashboard
 
-![Meta Ads Analytics Dashboard - Real Campaign Performance](campaign-dashboard.png)
+Below is a snapshot of the real campaign analytics dashboard showing live performance metrics:
+
+
 
 **Dashboard Shows:**
 - **26 Leads** generated from optimized targeting
