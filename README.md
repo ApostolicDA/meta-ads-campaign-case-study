@@ -16,6 +16,9 @@ This case study demonstrates real media buying expertise and campaign optimizati
 
 ### 📊 Live Campaign Dashboard
 
+![Meta Ads Analytics Dashboard](Screenshot%202025-12-26%20134931.png)
+
+
 Below is a snapshot of the real campaign analytics dashboard showing live performance metrics:
 
 
