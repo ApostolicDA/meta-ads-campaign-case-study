@@ -14,6 +14,20 @@ This case study demonstrates real media buying expertise and campaign optimizati
 
 ---
 
+### 📊 Live Campaign Dashboard
+
+![Meta Ads Analytics Dashboard - Real Campaign Performance](campaign-dashboard.png)
+
+**Dashboard Shows:**
+- **26 Leads** generated from optimized targeting
+- **9 FTDs** (First-Time Deposits) with 34.6% conversion rate
+- **$5,400** total income from campaign
+- **Multi-market performance** across Ukraine and South Africa
+- **Real-time analytics** with geographic performance breakdown
+
+
+
+
 ## 📈 Campaign Performance Metrics
 
 ### Key Results Achieved
