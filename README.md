@@ -1,5 +1,9 @@
-# 📊 Apostolic FX Meta Ads Campaign Case Study  
-**Data-Driven Media Buying + Analytics → Measurable ROI**
+## Meta Ads Performance Case Study
+### Media Buying + Analytics → Measurable Revenue Attribution
+
+A real campaign case study from my affiliate marketing period, 
+demonstrating how I combined data analytics with performance 
+marketing to track and optimise high-value conversions.
 
 ---
 
